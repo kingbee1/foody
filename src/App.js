@@ -14,7 +14,7 @@ function App() {
       <Hero />
       <Meals heading='Pick anyone boss' data={mealData} />
       <Feature  />
-      <Meals heading='sip and chill' data={mealDataTwo} />
+      <Meals heading='Varieties of Drinks' data={mealDataTwo} />
       <Footer />
     </Router>
   );
