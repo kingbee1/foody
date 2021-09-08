@@ -9,9 +9,9 @@ import {SidebarContainer, Icon, CloseIcon, SidebarMenu, SideBtnWrap, SidebarLink
              </Icon>
              <SidebarMenu>
                 <SidebarLink to="/">Breakfast</SidebarLink>
-                <SidebarLink to="/">Lunch</SidebarLink>
-                <SidebarLink to="/">Desserts</SidebarLink>
-                <SidebarLink to="/">Combo</SidebarLink>
+                <SidebarLink to="/">african dishes</SidebarLink>
+                <SidebarLink to="/">intercontinental</SidebarLink>
+                <SidebarLink to="/">drinks</SidebarLink>
              </SidebarMenu>
              <SideBtnWrap>
                  <SidebarRoute to="/">Order Now</SidebarRoute>
