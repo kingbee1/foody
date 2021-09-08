@@ -11,7 +11,7 @@ export const Nav = styled.nav`
 `;
 
 export const NavLink = styled(Link)`
-color: yellow;
+color: #fdd935;
 font-size: 2rem;
 display: flex;
 align-items: center;
@@ -31,7 +31,7 @@ position: absolute;
 top: 0;
 right: 0;
 cursor: pointer;
-color: yellow;
+color: #fdd935;
 
 p{
     transform: translate(-175%, 100%);

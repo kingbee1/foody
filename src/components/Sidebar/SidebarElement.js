@@ -8,6 +8,7 @@ export const SidebarContainer = styled.aside `
     width: 260px;
     height: 100%;
     background: #fdd935;
+    ${'' /* ffc500 */}
     display: grid;
     align-items: center;
     top: 0;
@@ -48,7 +49,6 @@ export const SidebarLink = styled(Link) `
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: 'Open Sans',sans-serif;
     text-transform: uppercase;
     font-size: 1.1rem;
     font-weight: 550;
@@ -60,7 +60,6 @@ export const SidebarLink = styled(Link) `
 
 &:hover {
     color: white;
-    background
     transition: 0.2s ease-in-out;
 }
 `;
@@ -75,7 +74,6 @@ export const SidebarRoute = styled(Link) `
     white-space: nowrap;
     padding: 16px 64px;
     color: white;
-    font-family: 'Open Sans',sans-serif;
     text-transform: uppercase;
     font-size: 11px;
     font-weight: 800;

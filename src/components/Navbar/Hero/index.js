@@ -16,7 +16,7 @@ const Hero = () => {
            <HeroContent>
                <HeroItems>
                    <HeroH1>Ofe nsala</HeroH1>
-                   <HeroP>Will get to you in 45mins</HeroP>
+                   <HeroP>Will get to you in 45 mins</HeroP>
                    <HeroBtn>Order Now</HeroBtn>
                </HeroItems>
            </HeroContent>

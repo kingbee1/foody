@@ -21,11 +21,11 @@ export const HeroItems = styled.div `
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    height: 100vh;
+    height: 90vh;
     max-height: 100%;
     padding: 0 2rem;
     width: 600px;
-    color: yellow;
+    color: #fdd935;
     text-transform: uppercase;
     line-height: 2;
     font-weight: bold;
@@ -38,7 +38,7 @@ export const HeroItems = styled.div `
 export const HeroH1 = styled.h1 `
     font-size: clamp(2.5rem, 10vw, 5rem);
     margin-bottom: 1rem;
-    box-shadow: 3px 5px yellow;
+    box-shadow: 3px 5px #fdd935;
     letter-spacing: 3px;
 `
 export const HeroP = styled.p `
@@ -48,16 +48,15 @@ export const HeroP = styled.p `
 
 export const HeroBtn = styled.button `
     font-size: 0.8rem;
-    font-weight: bold;
+    font-weight: 600;
     text-transform: uppercase;
     padding: 1rem 4rem;
     border: none;
-    background: #ffc500;
+    background: #fdd935;
     color: black;
-    transition 0.2s ease-out;
+    transition: 0.2s ease-out;
 
     &:hover {
-        background: #ffc500;
         transition: 0.1s ease-out;
         cursor: pointer;
         color: white;
