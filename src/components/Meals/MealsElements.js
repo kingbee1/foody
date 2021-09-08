@@ -4,7 +4,7 @@ export const MealsContainer = styled.div `
     width: 100vw;
     min-height: 100vh;
     padding: 5rem calc((100vw - 1300px) /2);
-    background: #150f0f;
+    background: black;
     color: white;
 `
 
@@ -16,16 +16,21 @@ export const MealWrapper = styled.div`
 `
 
 export const MealCard = styled.div `
-    margin: 0.2rem;
-    line-height: 1.4;
+    margin: 0.6rem;
+    line-height: 1.2;
     width: 300px;
 `
 
 export const MealImg = styled.img `
-    height: 300px;
+    height: 310px;
     min-width: 300px;
     max-width: 100%;
-    box-shadow: 8px 8px #fdc500;
+    box-shadow: 6px 6px #fdd935;
+    border-radius: 40px;
+    
+    &:hover{
+        opacity: 70%;
+    }
 `
 
 export const MealsHeading = styled.h1 `
@@ -34,8 +39,9 @@ export const MealsHeading = styled.h1 `
     margin-bottom: 5rem;
 `
 export const MealTitle = styled.h2 `
-    font-weight: 400;
-    font-size: 1.5rem;
+    font-weight: 750;
+    font-size: 1.1rem;
+    text-transform: uppercase;
 `
 
 export const MealInfo = styled.div `
@@ -49,25 +55,26 @@ export const MealInfo = styled.div `
 
 export const MealDesc = styled.p `
     margin-bottom: 1rem;
-    font-size: 2rem;
+    font-size: 1.3rem;
 `
 export const MealPrice = styled.p `
     margin-bottom: 1rem;
-    font-size: 2rem;
+    font-size: 1.1rem;
 `
 
 export const MealButton = styled.button `
-    font-size: 1rem;
-    padding: 1rem 4rem;
+    font-size: 0.7rem;
+    font-weight: 850;
+    padding: 0.9rem 3.5rem;
     border: none;
-    background: #e31837;
-    color: #fff;
+    background: #fdd935;
+    color: black;
+    text-transform: uppercase;
     transition: 0.2 ease-out;
 
     &:hover {
-        background: #ffc500;
         transition: 0.2s ease-out;
         cursor: pointer;
-        color: #000;
+        color: #fff;
     }
 `

@@ -11,50 +11,50 @@ export const mealData = [
     {
         img: meal1,
         alt: 'pasta',
-        name: 'Spaggetti Bolonzo',
-        desc: 'Yoruba peppered, italo, pasta',
-        price: 'NGN 6500',
-        button: 'Pick Me'
+        name: 'Pancakes',
+        desc: 'Served with strawberries, blueberry and syrup',
+        price: '₦6,500',
+        button: 'buy Me'
     },
     {
         img: meal2,
         alt: 'pasta',
-        name: 'Spaggetti Bolonzo',
+        name: 'Spanish Salad',
         desc: 'British Cole Slaw, with stuff, yunna',
-        price: 'NGN 6500',
-        button: 'Pick Me'
+        price: '₦6,500',
+        button: 'buy Me'
     },
     {
         img: meal3,
         alt: 'pasta',
-        name: 'Spaggetti Bolonzo',
+        name: 'Chicken Nuggets',
         desc: 'Yoruba peppered, italo pasta',
-        price: 'NGN 6500',
-        button: 'Pick Me'
+        price: '₦6,500',
+        button: 'buy Me'
     },
     {
         img: meal4,
         alt: 'pasta',
         name: 'Spaggetti Bolonzo',
         desc: 'Yoruba peppered italo pasta',
-        price: 'NGN 6500',
-        button: 'Pick Me'
+        price: '₦6,500',
+        button: 'buy Me'
     },
     {
         img: meal5,
         alt: 'pasta',
         name: 'Spaggetti Bolonzo',
         desc: 'Yoruba peppered, italo pasta',
-        price: 'NGN 6500',
-        button: 'Pick Me'
+        price: '₦6,500',
+        button: 'buy Me'
     },
     {
         img: meal3,
         alt: 'pasta',
         name: 'Spaggetti Bolonzo',
         desc: 'Yoruba peppered, italo pasta',
-        price: 'NGN 6500',
-        button: 'Pick Me'
+        price: '₦6,500',
+        button: 'buy Me'
     }
 ]
 
@@ -64,24 +64,24 @@ export const mealDataTwo = [
         alt: 'pasta',
         name: 'Swedish Mojito',
         desc: 'Yoruba peppered, italo, pasta',
-        price: 'NGN 6500',
-        button: 'Pick Me'
+        price: '₦6,500',
+        button: 'buy Me'
     },
     {
         img: drink2,
         alt: 'pasta',
-        name: 'Spaggetti Bolonzo',
+        name: 'Spanish Salad',
         desc: 'British Cole Slaw, with stuff, yunna',
-        price: 'NGN 6500',
-        button: 'Pick Me'
+        price: '₦6,500',
+        button: 'buy Me'
     },
     {
         img: drink3,
         alt: 'pasta',
-        name: 'Spaggetti Bolonzo',
+        name: 'Chicken Nuggets',
         desc: 'Yoruba peppered, italo pasta',
-        price: 'NGN 6500',
-        button: 'Pick Me'
+        price: '₦6,500',
+        button: 'buy Me'
     }
  
 ]
