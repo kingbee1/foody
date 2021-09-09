@@ -6,7 +6,7 @@ const Feature = () => {
         <FeatureContainer>
             <h1>African Special</h1>
             <p>Gbegiri and Ewedu with Ogunfe and Amala.</p>
-            <FeatureButton>Pay Now</FeatureButton>
+            <FeatureButton>Pick from here</FeatureButton>
         </FeatureContainer>
     )
 }

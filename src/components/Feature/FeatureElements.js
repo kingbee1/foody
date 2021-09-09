@@ -26,16 +26,17 @@ export const FeatureContainer = styled.div `
        }
 `
 export const FeatureButton = styled.button `
-    font-size: 1.4rem;
-    padding: 0.6rem, 3rem;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    font-weight: 750;
+    padding: 0.9rem 3.2rem;
     border: none;
-    background: #ffc500;
+    background: #fdd935;
     color: #000;
     transition: 0.2s ease-out;
 
     &:hover {
         color: #fff;
-        background: #e31837;
         transition: 0.2s ease-out;
         cursor: pointer;
     }
