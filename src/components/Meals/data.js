@@ -13,7 +13,7 @@ export const mealData = [
         alt: 'pasta',
         name: 'Pancakes',
         desc: 'Served with strawberries, blueberry and syrup',
-        price: '₦6,500',
+        price: '₦12,000',
         button: 'buy Me'
     },
     {
@@ -21,7 +21,7 @@ export const mealData = [
         alt: 'pasta',
         name: 'Spanish Salad',
         desc: 'British Cole Slaw, with stuff, yunna',
-        price: '₦6,500',
+        price: '₦8,500',
         button: 'buy Me'
     },
     {
@@ -29,31 +29,31 @@ export const mealData = [
         alt: 'pasta',
         name: 'Chicken Nuggets',
         desc: 'Yoruba peppered, italo pasta',
-        price: '₦6,500',
+        price: '₦3,500',
         button: 'buy Me'
     },
     {
         img: meal4,
         alt: 'pasta',
-        name: 'Spaggetti Bolonzo',
-        desc: 'Yoruba peppered italo pasta',
-        price: '₦6,500',
+        name: 'pounded yam and egusi',
+        desc: 'a lot of pounding was done',   
+        price: '₦7,200',
         button: 'buy Me'
     },
     {
         img: meal5,
         alt: 'pasta',
-        name: 'Spaggetti Bolonzo',
-        desc: 'Yoruba peppered, italo pasta',
+        name: 'Spaggetti Bolognese',
+        desc: 'peppered, italo pasta with shrimps',
         price: '₦6,500',
         button: 'buy Me'
     },
     {
         img: meal3,
         alt: 'pasta',
-        name: 'Spaggetti Bolonzo',
-        desc: 'Yoruba peppered, italo pasta',
-        price: '₦6,500',
+        name: 'The Dip',
+        desc: 'dip that nugget in the cream',
+        price: '₦2,000',
         button: 'buy Me'
     }
 ]
@@ -61,26 +61,26 @@ export const mealData = [
 export const mealDataTwo = [
     {
         img: drink1,
-        alt: 'pasta',
+        alt: 'chills',
         name: 'Swedish Mojito',
-        desc: 'Yoruba peppered, italo, pasta',
-        price: '₦6,500',
+        desc: 'Made with barcadi and citrus variants',
+        price: '₦7,500',
         button: 'buy Me'
     },
     {
         img: drink2,
-        alt: 'pasta',
-        name: 'Spanish Salad',
-        desc: 'British Cole Slaw, with stuff, yunna',
-        price: '₦6,500',
+        alt: 'chills',
+        name: 'Peach  Cocktail',
+        desc: 'Delta Peach variant with syrup',
+        price: '₦10,500',
         button: 'buy Me'
     },
     {
         img: drink3,
-        alt: 'pasta',
-        name: 'Chicken Nuggets',
-        desc: 'Yoruba peppered, italo pasta',
-        price: '₦6,500',
+        alt: 'chills',
+        name: 'Champagne',
+        desc: 'South African champagne yunna',
+        price: '₦96,500',
         button: 'buy Me'
     }
  
