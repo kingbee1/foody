@@ -1,8 +1,9 @@
 import meal1 from '../../images/meal-1.jpg'
 import meal2 from '../../images/meal-2.jpg'
-import meal3 from '../../images/meal-3.jpg'
+import meal3 from '../../images/meal3.jpg'
 import meal4 from '../../images/meal-4.jpg'
 import meal5 from '../../images/meal-5.jpg'
+import meal6 from '../../images/meal-3.jpg'
 import drink1 from '../../images/drink-1.jpg'
 import drink2 from '../../images/drink-2.jpg'
 import drink3 from '../../images/drink-3.jpg'
@@ -26,17 +27,17 @@ export const mealData = [
     },
     {
         img: meal3,
-        alt: 'pasta',
-        name: 'Chicken Nuggets',
-        desc: 'Yoruba peppered, italo pasta',
-        price: '₦3,500',
+        alt: 'ewa agoyin',
+        name: 'Ewa Agoyin with dodo',
+        desc: 'Comes with bread as side and turkey',
+        price: '₦6,500',
         button: 'buy Me'
     },
     {
         img: meal4,
         alt: 'pasta',
         name: 'pounded yam and egusi',
-        desc: 'a lot of pounding was done',   
+        desc: 'A lot of pounding was done',   
         price: '₦7,200',
         button: 'buy Me'
     },
@@ -44,15 +45,15 @@ export const mealData = [
         img: meal5,
         alt: 'pasta',
         name: 'Spaggetti Bolognese',
-        desc: 'peppered, italo pasta with shrimps',
+        desc: 'Peppered, italian pasta with shrimps',
         price: '₦6,500',
         button: 'buy Me'
     },
     {
-        img: meal3,
+        img: meal6,
         alt: 'pasta',
         name: 'The Dip',
-        desc: 'dip that nugget in the cream',
+        desc: 'Dip that nugget in the cream',
         price: '₦2,000',
         button: 'buy Me'
     }
@@ -79,7 +80,7 @@ export const mealDataTwo = [
         img: drink3,
         alt: 'chills',
         name: 'Champagne',
-        desc: 'South African champagne yunna',
+        desc: 'South African champagne',
         price: '₦96,500',
         button: 'buy Me'
     }

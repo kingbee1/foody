@@ -12,7 +12,7 @@ export const Nav = styled.nav`
 
 export const NavLink = styled(Link)`
 color: #fdd935;
-font-size: 2rem;
+font-size: 2.4rem;
 display: flex;
 align-items: center;
 text-decoration: none;
@@ -20,6 +20,7 @@ cursor:pointer;
 
 @media screen (max-width: 400px) {
     position: absolute;
+    
     top: 10px;
     left: 25px;
 }

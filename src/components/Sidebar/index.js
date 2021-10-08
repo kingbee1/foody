@@ -3,7 +3,7 @@ import {SidebarContainer, Icon, CloseIcon, SidebarMenu, SideBtnWrap, SidebarLink
 
  const Sidebar = ({isOpen, toggle}) => {
      return(
-         <SidebarContainer isOpen={isOpen} onClick={toggle}>
+         <SidebarContainer isOpen={!isOpen} onClick={toggle}>
              <Icon>
                  <CloseIcon/>
              </Icon>

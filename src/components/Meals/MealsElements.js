@@ -55,11 +55,11 @@ export const MealInfo = styled.div `
 
 export const MealDesc = styled.p `
     margin-bottom: 1rem;
-    font-size: 1.3rem;
+    font-size: 0.9rem;
 `
 export const MealPrice = styled.p `
     margin-bottom: 1rem;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
 `
 
 export const MealButton = styled.button `

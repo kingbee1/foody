@@ -15,7 +15,7 @@ const Hero = () => {
             <Sidebar isOpen={!isOpen} toggle={toggle} />
            <HeroContent>
                <HeroItems>
-                   <HeroH1>Man must chow yunna</HeroH1>
+                   <HeroH1>Man must chow yunno!!</HeroH1>
                    <HeroP>Will get to you in 45 mins.</HeroP>
                    <HeroBtn
                    >Order Now</HeroBtn>

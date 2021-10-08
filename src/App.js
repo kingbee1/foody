@@ -13,7 +13,7 @@ function App() {
       <GlobalStyle />
       <Hero />
       <Meals heading='Pick anyone boss' data={mealData} />
-      <Feature  />
+      <Feature />
       <Meals heading='Variety of Drinks' data={mealDataTwo} />
       <Footer />
     </Router>
